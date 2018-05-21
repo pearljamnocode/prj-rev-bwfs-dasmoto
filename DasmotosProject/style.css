@@ -1,0 +1,28 @@
+body {font-family: helvetica;}
+
+.StoreName {background-image: url(/Users/Brendan/DasmotosProject/resources/images/pattern.jpeg);
+    font-family: helvetica;
+    font-size: 50px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;}
+
+.brushes {background-color: mediumspringgreen;
+   font-family: helvetica;
+   font-size: 32px;
+   font-weight: bold;
+   color: white;}
+
+.frames {background-color: lightcoral;
+   font-family: helvetica;
+   font-size: 32px;
+   font-weight: bold;
+   color: white;}
+
+.paints {font-family: helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: skyblue;}
+
+.price {font-weight: bold;}
